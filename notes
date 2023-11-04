@@ -1,0 +1,8 @@
+style = ttk.Style()
+style.configure("Blue.TFrame", background="blue")
+
+styleRed = ttk.Style()
+styleRed.configure("Red.TFrame", background="red")
+
+styleyel = ttk.Style()
+styleyel.configure("yel.TFrame", background="yellow")
